@@ -63,7 +63,7 @@ A professional electrician web app designed for Indian domestic standards, inclu
 
 Clone the repository
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/sanuverman0312-star/My-portfolio.git
 
 
 Open index.html in your browser
@@ -73,7 +73,7 @@ Customize content, colors, and sections as needed
 🌍 Live Preview
 
 👉 Deployed using Netlify
-(You can add your live portfolio link here)
+https://skv-portfolio.netlify.app/
 
 📬 Contact
 
