@@ -77,7 +77,7 @@ https://skv-portfolio.netlify.app/
 
 📬 Contact
 
-📧 Email: sanuverman0312@gmail.com
+📧 Email: sanu03verman@gmail.com
 
 📍 Location: Shahdol, Madhya Pradesh, India
 
