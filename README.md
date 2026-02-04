@@ -7,9 +7,7 @@ Live, fast, and fully responsive — built with a clean UI and modern design pri
 ---
 
 ## 🌐 Live Preview
-👉 https://all-tools-hub.netlify.app/ *(example)*  
-(Replace with your deployed portfolio link)
-
+👉 https://smartelectrician.in/
 ---
 
 ## 🧑‍💻 About Me
