@@ -8,12 +8,18 @@
     <meta name="author" content="Shashank Kumar Verman">
     <title>Shashank Kumar Verman | AI Creator & Frontend Developer</title>
     
+<<<<<<< HEAD
     <!-- Favicons -->
         <link rel="icon" href="assets/favicon.ico" type="image/x-icon">
         <link rel="icon" type="image/png" sizes="192x192" href="assets/icon-192.png">
         <link rel="icon" type="image/png" sizes="512x512" href="assets/icon-512.png">
         <link rel="apple-touch-icon" href="assets/icon-192.png">
 
+=======
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🚀</text></svg>">
+    
+>>>>>>> 73bb775419326b4d6658fc668308807ddb7b63d9
     <style>
         /* ==========================================
            GLOBAL RESET & VARIABLES
@@ -117,6 +123,7 @@
             align-items: center;
         }
 
+<<<<<<< HEAD
         .logo img {
             height: 42px;
             width: auto;
@@ -128,6 +135,17 @@
         }
 
 
+=======
+        .logo {
+            font-size: 1.5rem;
+            font-weight: 700;
+            background: var(--primary-gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+>>>>>>> 73bb775419326b4d6658fc668308807ddb7b63d9
         .nav-links {
             display: flex;
             list-style: none;
@@ -383,7 +401,11 @@
         ========================================== */
         .projects-grid {
             display: grid;
+<<<<<<< HEAD
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+=======
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+>>>>>>> 73bb775419326b4d6658fc668308807ddb7b63d9
             gap: 2rem;
             margin-top: 3rem;
         }
@@ -439,6 +461,7 @@
         /* ==========================================
            SKILLS SECTION
         ========================================== */
+<<<<<<< HEAD
        .skills-container {
         display: grid;
         grid-template-columns: repeat(4, 1fr);
@@ -446,6 +469,14 @@
         margin-top: 3rem;
     }
 
+=======
+        .skills-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+            margin-top: 3rem;
+        }
+>>>>>>> 73bb775419326b4d6658fc668308807ddb7b63d9
 
         .skill-category h3 {
             font-size: 1.3rem;
@@ -453,6 +484,7 @@
             color: var(--text-accent);
         }
 
+<<<<<<< HEAD
         .skill-category {
             display: flex;
             flex-direction: column;
@@ -464,6 +496,8 @@
         }
 
 
+=======
+>>>>>>> 73bb775419326b4d6658fc668308807ddb7b63d9
         .skill-list {
             list-style: none;
         }
@@ -667,6 +701,7 @@
                 transition: left 0.3s ease;
             }
 
+<<<<<<< HEAD
             .logo img {
                 height: 36px;
             }
@@ -684,6 +719,8 @@
                 }
             }
 
+=======
+>>>>>>> 73bb775419326b4d6658fc668308807ddb7b63d9
             .nav-links.active {
                 left: 0;
             }
@@ -801,6 +838,7 @@
             color: var(--text-secondary);
             margin-bottom: 2rem;
         }
+<<<<<<< HEAD
 
         @media (hover: none) {
             .glass-card:hover {
@@ -809,6 +847,8 @@
             }
         }
 
+=======
+>>>>>>> 73bb775419326b4d6658fc668308807ddb7b63d9
     </style>
 </head>
 <body>
@@ -818,10 +858,14 @@
     <!-- Navigation -->
     <nav id="navbar">
         <div class="nav-container">
+<<<<<<< HEAD
             <a href="#home" class="logo">
                 <img src="assets/sv-logo.png" alt="SV Logo">
                 </a>
 
+=======
+            <div class="logo">SKV</div>
+>>>>>>> 73bb775419326b4d6658fc668308807ddb7b63d9
             <ul class="nav-links" id="navLinks">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About</a></li>
@@ -971,6 +1015,7 @@
                         <a href="https://electrician-tools.netlify.app/" target="_blank" class="btn btn-primary">Live Preview</a>
                     </div>
                 </div>
+<<<<<<< HEAD
 
                 
             <!-- Project 3: Try On Phone -->
@@ -1027,6 +1072,10 @@
                 </div>
             </div>
          </div>
+=======
+            </div>
+        </div>
+>>>>>>> 73bb775419326b4d6658fc668308807ddb7b63d9
     </section>
 
     <!-- Skills Section -->
@@ -1212,6 +1261,7 @@
         // ==========================================
         const contactForm = document.getElementById('contactForm');
 
+<<<<<<< HEAD
         contactForm.addEventListener("submit", function(e) {
     e.preventDefault();
 
@@ -1243,6 +1293,22 @@
     );
 });
 
+=======
+        contactForm.addEventListener('submit', (e) => {
+            e.preventDefault();
+            
+            const name = document.getElementById('name').value;
+            const email = document.getElementById('email').value;
+            const message = document.getElementById('message').value;
+
+            // In a real application, you would send this data to a server
+            // For now, we'll just show an alert
+            alert(`Thank you, ${name}! Your message has been received. I'll get back to you at ${email} soon.`);
+            
+            // Reset form
+            contactForm.reset();
+        });
+>>>>>>> 73bb775419326b4d6658fc668308807ddb7b63d9
 
         // ==========================================
         // SMOOTH SCROLL FOR ANCHOR LINKS
@@ -1287,6 +1353,7 @@
         console.log('%c👋 Hello, Developer!', 'font-size: 20px; font-weight: bold; color: #667eea;');
         console.log('%cThis portfolio was handcrafted by Shashank Kumar Verman', 'font-size: 14px; color: #4facfe;');
         console.log('%cInterested in working together? Reach out at sanuverman0312@gmail.com', 'font-size: 12px; color: #b0b0c8;');
+<<<<<<< HEAD
 
            </script>
     <script src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js"></script>
@@ -1298,3 +1365,8 @@
 
 </body>
 </html>
+=======
+    </script>
+</body>
+</html>
+>>>>>>> 73bb775419326b4d6658fc668308807ddb7b63d9
