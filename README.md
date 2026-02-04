@@ -1,88 +1,96 @@
-🚀 Personal Portfolio Website – Shashank Kumar Verman
+# 🚀 Shashank Kumar Verman – Portfolio Website
 
-A modern, responsive, and performance-optimized personal portfolio website built using HTML, CSS, and Vanilla JavaScript.
-This portfolio represents my work as an AI Content Creator, YouTube SEO Specialist, Thumbnail Designer, Frontend Developer, and Certified Electrician, combining creativity, automation, and technical expertise into one professional web presence.
+This is my personal portfolio website showcasing my skills, projects, and professional background as an **AI Content Creator, Frontend Developer, and Certified Electrician**.
 
-✨ Features
+Live, fast, and fully responsive — built with a clean UI and modern design principles.
 
-🎨 Modern Gradient UI with glassmorphism design
+---
 
-⚡ Smooth animations & scroll effects
+## 🌐 Live Preview
+👉 https://all-tools-hub.netlify.app/ *(example)*  
+(Replace with your deployed portfolio link)
 
-📱 Fully responsive (mobile, tablet, desktop)
+---
 
-🧠 Clean, readable, and well-structured code
+## 🧑‍💻 About Me
 
-🔍 SEO-friendly HTML structure
+I am a multi-skilled creator from **Shahdol, Madhya Pradesh (India)**.  
+I work at the intersection of **AI tools, frontend development, and technical problem-solving**.
 
-🚀 Fast loading & lightweight (no frameworks)
+I specialize in:
+- AI-powered content creation
+- YouTube thumbnail design & SEO
+- Responsive frontend development
+- Building practical online tools for electricians & creators
 
-🧑‍💻 About Me
+---
 
-I am a multi-skilled creator who works at the intersection of AI tools, design, and technical problem-solving.
+## 🛠️ Tech Stack
 
-What I do:
+- **HTML5**
+- **CSS3 (Glassmorphism, Animations)**
+- **JavaScript (Vanilla)**
+- **EmailJS** – Contact form email integration
+- **Responsive Design** – Mobile-first approach
 
-AI-based YouTube Thumbnail Design
+---
 
-YouTube SEO (Title, Description, Tags)
+## 📂 Featured Projects
 
-Mini websites using HTML, CSS & JavaScript
+### 🔧 All Tools Hub
+A multi-tool AI-powered utility website for creators and technical users.  
+**Tech:** HTML, CSS, JavaScript, AI Integration  
+🔗 https://all-tools-hub.netlify.app/
 
-Online tools for electricians & technical users
+---
 
-🛠️ Tech Stack
+### ⚡ Electrician Tools
+A professional web app to calculate electrical loads, wiring needs, and inverter planning (Indian standards).  
+**Tech:** HTML, CSS, JavaScript  
+🔗 https://electrician-tools.netlify.app/
 
-HTML5
+---
 
-CSS3 (Gradients, animations, glassmorphism)
+### 💻 Try On Phone
+A mobile-friendly code editor designed for phone users to write, test, and preview HTML, CSS, and JavaScript with live preview support.  
+**Tech:** HTML, CSS, JavaScript  
+🔗 https://try-on-phone.netlify.app/
 
-JavaScript (Vanilla)
+---
 
-Netlify (for deployment)
+### 🔐 Shashank Vault
+A personal document vault to securely store, organize, and access important files online.  
+**Tech:** Web App, Privacy-focused design  
+🔗 https://shashank-vault.vercel.app/
 
-📂 Projects Showcased
-🔹 All Tools Hub
+---
 
-A multi-utility web platform offering AI-powered and technical tools for creators and developers.
-🌐 Live: https://all-tools-hub.netlify.app/
+## 📬 Contact
 
-🔹 Electrician Tools
+If you want to collaborate, hire me, or discuss a project:
 
-A professional electrician web app designed for Indian domestic standards, including load calculation and inverter planning tools.
-🌐 Live: https://electrician-tools.netlify.app/
+- 📧 Email: **sanu03verman@gmail.com**
+- 🌍 Location: Shahdol, Madhya Pradesh, India
 
-📁 Project Structure
-📦 portfolio-website
- ┣ 📜 index.html
- ┣ 🎨 style.css
- ┣ ⚙️ script.js
- ┗ 📄 README.md
+The contact form on the website is fully functional and sends messages directly to my email.
 
-📥 How to Use
+---
 
-Clone the repository
+## 📌 Features
 
-git clone https://github.com/sanuverman0312-star/My-portfolio.git
+- Modern glassmorphism UI
+- Fully responsive (mobile, tablet, desktop)
+- Smooth scroll & animations
+- Custom logo & favicon branding
+- Real email contact form (EmailJS)
 
+---
 
-Open index.html in your browser
+## 📄 License
 
-Customize content, colors, and sections as needed
+This project is for **personal portfolio use**.  
+Feel free to explore the code, but do not copy branding or content without permission.
 
-🌍 Live Preview
+---
 
-👉 Deployed using Netlify
-https://skv-portfolio.netlify.app/
-
-📬 Contact
-
-📧 Email: sanu03verman@gmail.com
-
-📍 Location: Shahdol, Madhya Pradesh, India
-
-📜 License
-
-This project is open-source and free to use for learning and personal purposes.
-
-⭐ If you like this project, don’t forget to give it a star!
+⭐ If you like this project, consider giving it a star!
