@@ -1,14 +1,28 @@
-# 🚀 Shashank Kumar Verman – Portfolio Website
+# 🚀 Shashank Kumar Verman – Digital Tools Portfolio
 
-This is my personal portfolio website showcasing my skills, projects, and professional background as an **AI Content Creator, Frontend Developer, and Certified Electrician**.
+A performance-focused portfolio showcasing practical web tools, AI-based solutions, and frontend engineering projects.
 
-Live, fast, and fully responsive — built with a clean UI and modern design principles.
+Built with clean architecture, minimal dependencies, and production-ready UI principles.
 
 ---
 
-## 🌐 Live Preview
-👉 https://all-tools-hub.netlify.app/ *(example)*  
-(Replace with your deployed portfolio link)
+## 🌐 Live Website
+👉 [https://smartelectrician.in/](https://smartelectrician.in/)
+
+---
+
+## 🎯 Core Focus
+
+I build **practical digital tools** that solve real-world problems.
+
+My work combines:
+- Frontend engineering
+- AI-assisted automation
+- Utility-based web applications
+- Tools for creators & technical professionals
+
+> **I don't build "design-only" websites.**
+> **I build functional tools people can actually use.**
 
 ---
 
@@ -25,43 +39,80 @@ I specialize in:
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack
 
 - **HTML5**
-- **CSS3 (Glassmorphism, Animations)**
-- **JavaScript (Vanilla)**
+- **CSS3 (Glassmorphism + Animations)**
+- **Vanilla JavaScript**
+- **Responsive Architecture**
 - **EmailJS** – Contact form email integration
-- **Responsive Design** – Mobile-first approach
+- **Performance-first structure**
+
+> **No frameworks.**
+> **No unnecessary bloat.**
+> **Clean, optimized code.**
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔧 All Tools Hub
-A multi-tool AI-powered utility website for creators and technical users.  
+### 🛠️ All Tools Hub
+AI-powered multi-utility platform for creators and technical users.  
 **Tech:** HTML, CSS, JavaScript, AI Integration  
-🔗 https://all-tools-hub.netlify.app/
+🔗 [https://all-tools-hub.netlify.app/](https://all-tools-hub.netlify.app/)
 
 ---
 
 ### ⚡ Electrician Tools
-A professional web app to calculate electrical loads, wiring needs, and inverter planning (Indian standards).  
+Web calculators for electrical load planning and inverter calculation (Indian standards).  
 **Tech:** HTML, CSS, JavaScript  
-🔗 https://electrician-tools.netlify.app/
+🔗 [https://electrician-tools.netlify.app/](https://electrician-tools.netlify.app/)
 
 ---
 
 ### 💻 Try On Phone
-A mobile-friendly code editor designed for phone users to write, test, and preview HTML, CSS, and JavaScript with live preview support.  
+Mobile-first browser code editor built specifically for smartphone users.  
 **Tech:** HTML, CSS, JavaScript  
-🔗 https://try-on-phone.netlify.app/
+🔗 [https://try-on-phone.netlify.app/](https://try-on-phone.netlify.app/)
+
+---
+
+### 🧠 Try To Code
+Lightweight browser-based coding environment for beginners to write and preview HTML, CSS, and JavaScript instantly — no installation required.  
+**Tech:** HTML, CSS, JavaScript  
+🔗 [https://try-to-code.vercel.app/](https://try-to-code.vercel.app/)
 
 ---
 
 ### 🔐 Shashank Vault
-A personal document vault to securely store, organize, and access important files online.  
+Secure personal document vault with privacy-focused design.  
 **Tech:** Web App, Privacy-focused design  
-🔗 https://shashank-vault.vercel.app/
+🔗 [https://shashank-vault.vercel.app/](https://shashank-vault.vercel.app/)
+
+---
+
+## ⚙️ Features
+
+- Modern glassmorphism UI
+- Fully responsive layout (mobile, tablet, desktop)
+- Smooth scroll & intersection animations
+- Real email integration via EmailJS
+- Custom logo & favicon branding
+- Clean, maintainable structure
+- SEO-friendly meta structure
+
+---
+
+## 📈 Direction
+
+**Current direction:**  
+Building an ecosystem of lightweight web tools for creators and technical professionals.
+
+**Future improvements:**
+- Backend integration
+- Authentication systems
+- SaaS-style tool access
+- Monetization-ready architecture
 
 ---
 
@@ -70,27 +121,17 @@ A personal document vault to securely store, organize, and access important file
 If you want to collaborate, hire me, or discuss a project:
 
 - 📧 Email: **sanu03verman@gmail.com**
-- 🌍 Location: Shahdol, Madhya Pradesh, India
+- 📍 Location: **Shahdol, Madhya Pradesh, India**
 
 The contact form on the website is fully functional and sends messages directly to my email.
 
 ---
 
-## 📌 Features
-
-- Modern glassmorphism UI
-- Fully responsive (mobile, tablet, desktop)
-- Smooth scroll & animations
-- Custom logo & favicon branding
-- Real email contact form (EmailJS)
-
----
-
 ## 📄 License
 
-This project is for **personal portfolio use**.  
-Feel free to explore the code, but do not copy branding or content without permission.
+This repository represents my **personal portfolio and product showcase**.  
+Do not reuse branding, structure, or content without permission.
 
 ---
 
-⭐ If you like this project, consider giving it a star!
+⭐ **If you like this project, consider giving it a star!**
